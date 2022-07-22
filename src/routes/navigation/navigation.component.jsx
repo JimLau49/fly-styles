@@ -22,7 +22,7 @@ const Navigation = () => {
     <>
       <NavigationContainer>
         <LogoContainer to='/'>
-          <CrwnLogo />
+          <CrwnLogo width={'50px'} height={'50px'} />
         </LogoContainer>
         <NavLinksContainer>
           <NavLink to='/shop'>SHOP</NavLink>
